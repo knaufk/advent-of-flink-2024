@@ -24,5 +24,6 @@ interested.
 * [Advent of Flink - Day #16 Fun with `OVER` Aggregations](./16_over_alerting.md)
 * [Advent of Flink - Day #17 Reading & Writing Metadata Columns](./17_metadata.md)
 * [Advent of Flink - Day #18 "Expensive" Operators](./18_expensive.md)
-* [Advent of Flink - Day #19 `SHOW CREATE TABLE` Operators](./18_show_create_table.md)
+* [Advent of Flink - Day #19 `SHOW CREATE TABLE`](./19_show_create_table.md)
+* [Advent of Flink - Day #20 `TIMESTAMP` vs `TIMESTAMP_LTZ`](./20_timestamps.md)
 
