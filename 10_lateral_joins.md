@@ -9,7 +9,7 @@ right-hand-subquery using the values from the current row in the left-hand table
 
 ```sql
 WITH departments AS (
-  SELECT DISTINCT(p.departments) FROM `examples`.`marketplace`.`products`
+  SELECT DISTINCT(p.department) FROM `examples`.`marketplace`.`products` AS p
 )
 SELECT * FROM departments, LATERAL (
   SELECT 1
